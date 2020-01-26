@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://nanda1995:Ac4$blackflag@contactkeeperc-2gg7s.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
+}
